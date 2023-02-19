@@ -8,7 +8,7 @@ Automatically download subtitles from opensubtitles.org, using only Python 3 sta
 4. The script will download subtitles and save at the same selected folder
 
 
-Alternatively, you can run the script running this command on terminal:  
+Alternatively, you can start the app running this command on terminal:  
 `wget -qO- https://raw.githubusercontent.com/arturaugusto/subtitles-downloader/main/main.py  | python -`
 
 ### Minimalist user interface included:
